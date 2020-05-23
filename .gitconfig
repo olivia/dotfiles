@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Olivia Briggs
+	email = ofbriggs@gmail.com
+# Please adapt and uncomment the following lines:
+#	name = Olivia Briggs
+#	email = ofbriggs@gmail.com
+[core]
+	excludesfile = /Users/oliviabriggs/.gitignore
